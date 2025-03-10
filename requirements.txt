@@ -1,0 +1,10 @@
+### Following libraries are used in this project
+
+scikit-learn
+pystan
+numpy
+pandas
+seaborn
+matplotlib
+joblib
+logging
