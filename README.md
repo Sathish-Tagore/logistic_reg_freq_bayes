@@ -23,11 +23,11 @@ Frequentist_Analysis.ipynb - Code to perform the step by step analysis of the Fr
 
 Paperwork.ipynb - This code contains all steps followed to obtain specific figures for the paperwork. 
 
-Tables.txt - This text file contains the classification performance of different methods as tables.
+Tables.txt - This text file tabulates the classification performance of different models as tables.
 
-requirements.txt - This text file contains the python packages needed to perform this analysis and to run this models.
+requirements.txt - This text file lists the python packages needed to perform this analysis and to run this models.
 
-run_python_script.sh - This shell file contains to code to run the models in the HPC environment of the Boehringer Ingelheim.
+run_python_script.sh - This shell file contains code to run the models in the HPC environment of the Boehringer Ingelheim.
 
 
 
